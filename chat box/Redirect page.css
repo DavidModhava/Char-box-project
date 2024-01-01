@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.submit{
+    
+    width: 79%;
+    height: 307px;
+    background-color: #d6ff1326;
+    border: 2px solid black;
+    text-align: center;
+    margin: 24px auto;
+}
+.submit h1{
+    color:brown;
+
+    margin: 25px 1px 1px 1px;
+    /*! background: aquamarine; */
+    /*! padding: 1px 177px; */
+    text-transform: uppercase;
+}
+
+#bt1{
+
+    /*! display: block; */
+    margin: 56px 0px 0px 39px;
+}
+#bt2{
+    
+    /*! margin: 35px 269px 0px 4px; */
+    margin: 53px 117px 0px 42px;
+}
+#bt3{
+    
+    margin: 48px 1px 1px 1px;
+}
